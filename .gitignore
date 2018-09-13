@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+*.iml
+/sm_web/target/
+/sm_service/target/

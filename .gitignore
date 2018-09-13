@@ -3,3 +3,4 @@
 *.iml
 /sm_web/target/
 /sm_service/target/
+/.DS_Store
